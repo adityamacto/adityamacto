@@ -128,16 +128,3 @@ Python • Scikit-learn • Pandas • NumPy • LangChain • RAG • LLMs • 
 
 </div>
 ```
-
-### What changed
-
-* **All your previous skills are retained.**
-* **No separate Tech Stack categories** — everything is under one section.
-* Logos are displayed together instead of repeating the skill name under every logo.
-* Your full skill list is still present in **one compact line** for readability/searchability.
-* Added an **animated typing effect** at the top.
-* Added an **animated gradient header and footer**.
-* Portfolio is now visible alongside GitHub and LinkedIn.
-* Kept the GitHub analytics/streak/activity animations you already had.
-
-One small caveat: technologies such as **BM25, MCP, FastMCP, Modbus, PLC and OPC UA** don't have universally reliable Simple Icons logos, so keeping their names in the compact skill line is better than using incorrect/proxy logos.
