@@ -11,6 +11,9 @@
   <a href="https://www.linkedin.com/in/adityasachar/">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20S%20Achar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://adityamacto.github.io/aditya-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
 </p>
 
 </div>
@@ -25,38 +28,49 @@ My work spans **machine learning, generative AI, backend engineering, developer 
 
 Currently focused on **ML/AI applications, predictive systems, developer tooling, and intelligent data-driven solutions**.
 
----
-
 ## 🛠️ Tech Stack
 
 ### 🤖 AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" height="48" alt="Python">
+  <img src="https://cdn.simpleicons.org/python" height="42" alt="Python">
+  <img src="https://cdn.simpleicons.org/scikitlearn" height="42" alt="Scikit-learn">
+  <img src="https://cdn.simpleicons.org/pandas" height="42" alt="Pandas">
+  <img src="https://cdn.simpleicons.org/numpy" height="42" alt="NumPy">
 </p>
 
-**Python • Scikit-learn • Pandas • NumPy • LangChain • RAG • LLMs • Generative AI • NLP**
+**Python • Scikit-learn • Pandas • NumPy • Machine Learning • NLP**
 
-### 🧠 AI Engineering
+### 🧠 Generative AI & AI Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" height="48" alt="AI Engineering">
+  <img src="https://cdn.simpleicons.org/google" height="42" alt="Google Gemini">
+  <img src="https://cdn.simpleicons.org/ollama" height="42" alt="Ollama">
+  <img src="https://cdn.simpleicons.org/langchain" height="42" alt="LangChain">
+  <img src="https://cdn.simpleicons.org/chroma" height="42" alt="ChromaDB">
 </p>
 
-**Gemini • Ollama • LangChain • ChromaDB • BM25 • Vector Search • Reranking • FastMCP • MCP**
+**Gemini • Ollama • LangChain • ChromaDB • RAG • LLMs • Generative AI • BM25 • Vector Search • Reranking • FastMCP • MCP**
 
 ### ⚙️ Backend & APIs
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" height="48" alt="Backend and APIs">
+  <img src="https://cdn.simpleicons.org/fastapi" height="42" alt="FastAPI">
+  <img src="https://cdn.simpleicons.org/flask" height="42" alt="Flask">
+  <img src="https://cdn.simpleicons.org/streamlit" height="42" alt="Streamlit">
+  <img src="https://cdn.simpleicons.org/nodedotjs" height="42" alt="Node.js">
 </p>
 
-**FastAPI • Flask • REST APIs • Streamlit • Node.js**
+**FastAPI • Flask • Streamlit • Node.js • REST APIs • Backend Engineering**
 
 ### 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,js,html,css" height="48" alt="Frontend">
+  <img src="https://cdn.simpleicons.org/react" height="42" alt="React">
+  <img src="https://cdn.simpleicons.org/vite" height="42" alt="Vite">
+  <img src="https://cdn.simpleicons.org/javascript" height="42" alt="JavaScript">
+  <img src="https://cdn.simpleicons.org/html5" height="42" alt="HTML5">
+  <img src="https://cdn.simpleicons.org/css" height="42" alt="CSS">
 </p>
 
 **React • Vite • JavaScript • HTML • CSS**
@@ -64,15 +78,22 @@ Currently focused on **ML/AI applications, predictive systems, developer tooling
 ### 🗄️ Data & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite" height="48" alt="Databases">
+  <img src="https://cdn.simpleicons.org/postgresql" height="42" alt="PostgreSQL">
+  <img src="https://cdn.simpleicons.org/sqlite" height="42" alt="SQLite">
 </p>
 
-**SQL • SQLite • PostgreSQL • Vector Databases • Data Analytics**
+**SQL • PostgreSQL • SQLite • Vector Databases • Data Analytics**
 
 ### ☁️ Cloud & Developer Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,git,github,linux,docker,vscode" height="48" alt="Cloud and Developer Tools">
+  <img src="https://cdn.simpleicons.org/amazonwebservices" height="42" alt="AWS">
+  <img src="https://cdn.simpleicons.org/git" height="42" alt="Git">
+  <img src="https://cdn.simpleicons.org/github" height="42" alt="GitHub">
+  <img src="https://cdn.simpleicons.org/linux" height="42" alt="Linux">
+  <img src="https://cdn.simpleicons.org/docker" height="42" alt="Docker">
+  <img src="https://cdn.simpleicons.org/visualstudiocode" height="42" alt="VS Code">
+  <img src="https://cdn.simpleicons.org/githubcopilot" height="42" alt="GitHub Copilot">
 </p>
 
 **AWS • Git • GitHub • Linux • Docker • VS Code • GitHub Copilot**
@@ -80,7 +101,10 @@ Currently focused on **ML/AI applications, predictive systems, developer tooling
 ### 🔌 Embedded & Industrial
 
 <p>
-<img src="https://skillicons.dev/icons?i=arduino,python" height="48" alt="Embedded and Industrial">
+  <img src="https://cdn.simpleicons.org/espressif" height="42" alt="ESP32">
+  <img src="https://cdn.simpleicons.org/arduino" height="42" alt="Arduino">
+  <img src="https://cdn.simpleicons.org/nodered" height="42" alt="Node-RED">
+  <img src="https://cdn.simpleicons.org/grafana" height="42" alt="Grafana">
 </p>
 
 **ESP32 • Modbus RTU/TCP • PLC • Node-RED • Grafana • OPC UA • Serial Communication**
@@ -104,19 +128,6 @@ Currently focused on **ML/AI applications, predictive systems, developer tooling
 
 ---
 
-## 📌 Contribution Activity
-
-I enjoy building projects around:
-
-* 🤖 Artificial Intelligence & Machine Learning
-* 🧠 Generative AI & RAG
-* ⚙️ Backend Engineering
-* 📊 Data Analytics & Predictive Modeling
-* 🔌 Embedded & Industrial Systems
-* 🛠️ Developer Productivity & AI Tooling
-
----
-
 ## 🎯 Current Interests
 
 **AI Engineering • Machine Learning • Generative AI • Backend Systems • Developer Tools • Semiconductor AI • Predictive Analytics**
@@ -132,12 +143,15 @@ I enjoy building projects around:
   <a href="https://www.linkedin.com/in/adityasachar/">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20S%20Achar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://adityamacto.github.io/aditya-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-adityamacto.github.io-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
 </p>
 
 ---
 
 <div align="center">
 
-### Building • Learning • Experimenting • Shipping 🚀
+### Building • Learning • Experimenting • Shipping 
 
 </div>
