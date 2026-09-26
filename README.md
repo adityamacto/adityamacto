@@ -33,81 +33,67 @@ Currently focused on **ML/AI applications, predictive systems, developer tooling
 ### 🤖 AI / Machine Learning
 
 <p>
-  <img src="https://cdn.simpleicons.org/python" height="42" alt="Python">
-  <img src="https://cdn.simpleicons.org/scikitlearn" height="42" alt="Scikit-learn">
-  <img src="https://cdn.simpleicons.org/pandas" height="42" alt="Pandas">
-  <img src="https://cdn.simpleicons.org/numpy" height="42" alt="NumPy">
+  <img src="https://cdn.simpleicons.org/python" height="45" alt="Python">
+  <img src="https://cdn.simpleicons.org/scikitlearn" height="45" alt="Scikit-learn">
+  <img src="https://cdn.simpleicons.org/pandas" height="45" alt="Pandas">
+  <img src="https://cdn.simpleicons.org/numpy" height="45" alt="NumPy">
 </p>
 
-**Python • Scikit-learn • Pandas • NumPy • Machine Learning • NLP**
-
-### 🧠 Generative AI & AI Engineering
+### 🧠 Generative AI
 
 <p>
-  <img src="https://cdn.simpleicons.org/google" height="42" alt="Google Gemini">
-  <img src="https://cdn.simpleicons.org/ollama" height="42" alt="Ollama">
-  <img src="https://cdn.simpleicons.org/langchain" height="42" alt="LangChain">
-  <img src="https://cdn.simpleicons.org/chroma" height="42" alt="ChromaDB">
+  <img src="https://cdn.simpleicons.org/google" height="45" alt="Gemini">
+  <img src="https://cdn.simpleicons.org/ollama" height="45" alt="Ollama">
+  <img src="https://cdn.simpleicons.org/langchain" height="45" alt="LangChain">
+  <img src="https://cdn.simpleicons.org/chroma" height="45" alt="ChromaDB">
 </p>
-
-**Gemini • Ollama • LangChain • ChromaDB • RAG • LLMs • Generative AI • BM25 • Vector Search • Reranking • FastMCP • MCP**
 
 ### ⚙️ Backend & APIs
 
 <p>
-  <img src="https://cdn.simpleicons.org/fastapi" height="42" alt="FastAPI">
-  <img src="https://cdn.simpleicons.org/flask" height="42" alt="Flask">
-  <img src="https://cdn.simpleicons.org/streamlit" height="42" alt="Streamlit">
-  <img src="https://cdn.simpleicons.org/nodedotjs" height="42" alt="Node.js">
+  <img src="https://cdn.simpleicons.org/fastapi" height="45" alt="FastAPI">
+  <img src="https://cdn.simpleicons.org/flask" height="45" alt="Flask">
+  <img src="https://cdn.simpleicons.org/streamlit" height="45" alt="Streamlit">
+  <img src="https://cdn.simpleicons.org/nodedotjs" height="45" alt="Node.js">
 </p>
-
-**FastAPI • Flask • Streamlit • Node.js • REST APIs • Backend Engineering**
 
 ### 🌐 Frontend
 
 <p>
-  <img src="https://cdn.simpleicons.org/react" height="42" alt="React">
-  <img src="https://cdn.simpleicons.org/vite" height="42" alt="Vite">
-  <img src="https://cdn.simpleicons.org/javascript" height="42" alt="JavaScript">
-  <img src="https://cdn.simpleicons.org/html5" height="42" alt="HTML5">
-  <img src="https://cdn.simpleicons.org/css" height="42" alt="CSS">
+  <img src="https://cdn.simpleicons.org/react" height="45" alt="React">
+  <img src="https://cdn.simpleicons.org/vite" height="45" alt="Vite">
+  <img src="https://cdn.simpleicons.org/javascript" height="45" alt="JavaScript">
+  <img src="https://cdn.simpleicons.org/html5" height="45" alt="HTML5">
+  <img src="https://cdn.simpleicons.org/css" height="45" alt="CSS">
 </p>
 
-**React • Vite • JavaScript • HTML • CSS**
-
-### 🗄️ Data & Databases
+### 🗄️ Databases & Data
 
 <p>
-  <img src="https://cdn.simpleicons.org/postgresql" height="42" alt="PostgreSQL">
-  <img src="https://cdn.simpleicons.org/sqlite" height="42" alt="SQLite">
+  <img src="https://cdn.simpleicons.org/postgresql" height="45" alt="PostgreSQL">
+  <img src="https://cdn.simpleicons.org/sqlite" height="45" alt="SQLite">
 </p>
-
-**SQL • PostgreSQL • SQLite • Vector Databases • Data Analytics**
 
 ### ☁️ Cloud & Developer Tools
 
 <p>
-  <img src="https://cdn.simpleicons.org/amazonwebservices" height="42" alt="AWS">
-  <img src="https://cdn.simpleicons.org/git" height="42" alt="Git">
-  <img src="https://cdn.simpleicons.org/github" height="42" alt="GitHub">
-  <img src="https://cdn.simpleicons.org/linux" height="42" alt="Linux">
-  <img src="https://cdn.simpleicons.org/docker" height="42" alt="Docker">
-  <img src="https://cdn.simpleicons.org/visualstudiocode" height="42" alt="VS Code">
-  <img src="https://cdn.simpleicons.org/githubcopilot" height="42" alt="GitHub Copilot">
+  <img src="https://cdn.simpleicons.org/amazonwebservices" height="45" alt="AWS">
+  <img src="https://cdn.simpleicons.org/git" height="45" alt="Git">
+  <img src="https://cdn.simpleicons.org/github" height="45" alt="GitHub">
+  <img src="https://cdn.simpleicons.org/linux" height="45" alt="Linux">
+  <img src="https://cdn.simpleicons.org/docker" height="45" alt="Docker">
+  <img src="https://cdn.simpleicons.org/visualstudiocode" height="45" alt="VS Code">
+  <img src="https://cdn.simpleicons.org/githubcopilot" height="45" alt="GitHub Copilot">
 </p>
-
-**AWS • Git • GitHub • Linux • Docker • VS Code • GitHub Copilot**
 
 ### 🔌 Embedded & Industrial
 
 <p>
-  <img src="https://cdn.simpleicons.org/espressif" height="42" alt="ESP32">
-  <img src="https://cdn.simpleicons.org/arduino" height="42" alt="Arduino">
-  <img src="https://cdn.simpleicons.org/nodered" height="42" alt="Node-RED">
-  <img src="https://cdn.simpleicons.org/grafana" height="42" alt="Grafana">
+  <img src="https://cdn.simpleicons.org/espressif" height="45" alt="ESP32">
+  <img src="https://cdn.simpleicons.org/arduino" height="45" alt="Arduino">
+  <img src="https://cdn.simpleicons.org/nodered" height="45" alt="Node-RED">
+  <img src="https://cdn.simpleicons.org/grafana" height="45" alt="Grafana">
 </p>
-
-**ESP32 • Modbus RTU/TCP • PLC • Node-RED • Grafana • OPC UA • Serial Communication**
 
 ---
 
