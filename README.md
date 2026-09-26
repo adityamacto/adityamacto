@@ -118,4 +118,3 @@ Python • Scikit-learn • Pandas • NumPy • LangChain • RAG • LLMs • 
 ### Building • Learning • Experimenting • Shipping 🚀
 
 </div>
-```
