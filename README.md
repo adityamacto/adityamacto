@@ -46,7 +46,7 @@ Currently focused on **ML/AI applications, predictive systems, developer tooling
 <img src="https://cdn.simpleicons.org/google" height="45" alt="Gemini">
 <img src="https://cdn.simpleicons.org/ollama" height="45" alt="Ollama">
 <img src="https://cdn.simpleicons.org/langchain" height="45" alt="LangChain">
-<img src="https://cdn.simpleicons.org/chroma" height="45" alt="ChromaDB">
+<img src="https://cdn.jsdelivr.net/gh/chroma-core/chroma@main/docs/images/chroma-logo.svg" height="45" alt="ChromaDB">
 
 <img src="https://cdn.simpleicons.org/fastapi" height="45" alt="FastAPI">
 <img src="https://cdn.simpleicons.org/flask" height="45" alt="Flask">
@@ -62,12 +62,12 @@ Currently focused on **ML/AI applications, predictive systems, developer tooling
 <img src="https://cdn.simpleicons.org/postgresql" height="45" alt="PostgreSQL">
 <img src="https://cdn.simpleicons.org/sqlite" height="45" alt="SQLite">
 
-<img src="https://cdn.simpleicons.org/amazonwebservices" height="45" alt="AWS">
+<img src="https://skillicons.dev/icons?i=aws" height="45" alt="AWS">
 <img src="https://cdn.simpleicons.org/git" height="45" alt="Git">
 <img src="https://cdn.simpleicons.org/github" height="45" alt="GitHub">
 <img src="https://cdn.simpleicons.org/linux" height="45" alt="Linux">
 <img src="https://cdn.simpleicons.org/docker" height="45" alt="Docker">
-<img src="https://cdn.simpleicons.org/visualstudiocode" height="45" alt="VS Code">
+<img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code">
 <img src="https://cdn.simpleicons.org/githubcopilot" height="45" alt="GitHub Copilot">
 
 <img src="https://cdn.simpleicons.org/espressif" height="45" alt="ESP32">
