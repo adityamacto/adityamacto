@@ -90,16 +90,7 @@ Python • Scikit-learn • Pandas • NumPy • LangChain • RAG • LLMs • 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityamacto&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamacto&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="170">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=adityamacto&theme=transparent&hide_border=true">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityamacto&theme=github-compact&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=adityamacto&theme=transparent&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
