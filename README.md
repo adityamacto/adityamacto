@@ -1,8 +1,12 @@
 <div align="center">
 
-# ADITYA S ACHAR
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=ADITYA%20S%20ACHAR&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 
-### AI/ML • Software Engineering • Data • Embedded Systems
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Software+%26+Backend+Developer;Generative+AI+%7C+RAG+%7C+MCP;Building+Intelligent+Data-Driven+Systems;Semiconductor+%7C+AI+%7C+Machine+Learning" alt="Typing SVG" />
+</a>
+
+<br>
 
 <p>
   <a href="https://github.com/adityamacto">
@@ -28,71 +32,57 @@ My work spans **machine learning, generative AI, backend engineering, developer 
 
 Currently focused on **ML/AI applications, predictive systems, developer tooling, and intelligent data-driven solutions**.
 
+---
+
 ## 🛠️ Tech Stack
 
-### 🤖 AI / Machine Learning
+<p align="center">
 
-<p>
-  <img src="https://cdn.simpleicons.org/python" height="45" alt="Python">
-  <img src="https://cdn.simpleicons.org/scikitlearn" height="45" alt="Scikit-learn">
-  <img src="https://cdn.simpleicons.org/pandas" height="45" alt="Pandas">
-  <img src="https://cdn.simpleicons.org/numpy" height="45" alt="NumPy">
+<img src="https://cdn.simpleicons.org/python" height="45" alt="Python">
+<img src="https://cdn.simpleicons.org/scikitlearn" height="45" alt="Scikit-learn">
+<img src="https://cdn.simpleicons.org/pandas" height="45" alt="Pandas">
+<img src="https://cdn.simpleicons.org/numpy" height="45" alt="NumPy">
+
+<img src="https://cdn.simpleicons.org/google" height="45" alt="Gemini">
+<img src="https://cdn.simpleicons.org/ollama" height="45" alt="Ollama">
+<img src="https://cdn.simpleicons.org/langchain" height="45" alt="LangChain">
+<img src="https://cdn.simpleicons.org/chroma" height="45" alt="ChromaDB">
+
+<img src="https://cdn.simpleicons.org/fastapi" height="45" alt="FastAPI">
+<img src="https://cdn.simpleicons.org/flask" height="45" alt="Flask">
+<img src="https://cdn.simpleicons.org/streamlit" height="45" alt="Streamlit">
+<img src="https://cdn.simpleicons.org/nodedotjs" height="45" alt="Node.js">
+
+<img src="https://cdn.simpleicons.org/react" height="45" alt="React">
+<img src="https://cdn.simpleicons.org/vite" height="45" alt="Vite">
+<img src="https://cdn.simpleicons.org/javascript" height="45" alt="JavaScript">
+<img src="https://cdn.simpleicons.org/html5" height="45" alt="HTML5">
+<img src="https://cdn.simpleicons.org/css" height="45" alt="CSS">
+
+<img src="https://cdn.simpleicons.org/postgresql" height="45" alt="PostgreSQL">
+<img src="https://cdn.simpleicons.org/sqlite" height="45" alt="SQLite">
+
+<img src="https://cdn.simpleicons.org/amazonwebservices" height="45" alt="AWS">
+<img src="https://cdn.simpleicons.org/git" height="45" alt="Git">
+<img src="https://cdn.simpleicons.org/github" height="45" alt="GitHub">
+<img src="https://cdn.simpleicons.org/linux" height="45" alt="Linux">
+<img src="https://cdn.simpleicons.org/docker" height="45" alt="Docker">
+<img src="https://cdn.simpleicons.org/visualstudiocode" height="45" alt="VS Code">
+<img src="https://cdn.simpleicons.org/githubcopilot" height="45" alt="GitHub Copilot">
+
+<img src="https://cdn.simpleicons.org/espressif" height="45" alt="ESP32">
+<img src="https://cdn.simpleicons.org/arduino" height="45" alt="Arduino">
+<img src="https://cdn.simpleicons.org/nodered" height="45" alt="Node-RED">
+<img src="https://cdn.simpleicons.org/grafana" height="45" alt="Grafana">
+
 </p>
 
-### 🧠 Generative AI
+<p align="center">
 
-<p>
-  <img src="https://cdn.simpleicons.org/google" height="45" alt="Gemini">
-  <img src="https://cdn.simpleicons.org/ollama" height="45" alt="Ollama">
-  <img src="https://cdn.simpleicons.org/langchain" height="45" alt="LangChain">
-  <img src="https://cdn.simpleicons.org/chroma" height="45" alt="ChromaDB">
-</p>
+<b>
+Python • Scikit-learn • Pandas • NumPy • LangChain • RAG • LLMs • Generative AI • NLP • Gemini • Ollama • ChromaDB • BM25 • Vector Search • Reranking • FastMCP • MCP • FastAPI • Flask • REST APIs • Streamlit • Node.js • React • Vite • JavaScript • HTML • CSS • SQL • SQLite • PostgreSQL • Vector Databases • Data Analytics • AWS • Git • GitHub • Linux • Docker • VS Code • GitHub Copilot • ESP32 • Modbus RTU/TCP • PLC • Node-RED • Grafana • OPC UA • Serial Communication
+</b>
 
-### ⚙️ Backend & APIs
-
-<p>
-  <img src="https://cdn.simpleicons.org/fastapi" height="45" alt="FastAPI">
-  <img src="https://cdn.simpleicons.org/flask" height="45" alt="Flask">
-  <img src="https://cdn.simpleicons.org/streamlit" height="45" alt="Streamlit">
-  <img src="https://cdn.simpleicons.org/nodedotjs" height="45" alt="Node.js">
-</p>
-
-### 🌐 Frontend
-
-<p>
-  <img src="https://cdn.simpleicons.org/react" height="45" alt="React">
-  <img src="https://cdn.simpleicons.org/vite" height="45" alt="Vite">
-  <img src="https://cdn.simpleicons.org/javascript" height="45" alt="JavaScript">
-  <img src="https://cdn.simpleicons.org/html5" height="45" alt="HTML5">
-  <img src="https://cdn.simpleicons.org/css" height="45" alt="CSS">
-</p>
-
-### 🗄️ Databases & Data
-
-<p>
-  <img src="https://cdn.simpleicons.org/postgresql" height="45" alt="PostgreSQL">
-  <img src="https://cdn.simpleicons.org/sqlite" height="45" alt="SQLite">
-</p>
-
-### ☁️ Cloud & Developer Tools
-
-<p>
-  <img src="https://cdn.simpleicons.org/amazonwebservices" height="45" alt="AWS">
-  <img src="https://cdn.simpleicons.org/git" height="45" alt="Git">
-  <img src="https://cdn.simpleicons.org/github" height="45" alt="GitHub">
-  <img src="https://cdn.simpleicons.org/linux" height="45" alt="Linux">
-  <img src="https://cdn.simpleicons.org/docker" height="45" alt="Docker">
-  <img src="https://cdn.simpleicons.org/visualstudiocode" height="45" alt="VS Code">
-  <img src="https://cdn.simpleicons.org/githubcopilot" height="45" alt="GitHub Copilot">
-</p>
-
-### 🔌 Embedded & Industrial
-
-<p>
-  <img src="https://cdn.simpleicons.org/espressif" height="45" alt="ESP32">
-  <img src="https://cdn.simpleicons.org/arduino" height="45" alt="Arduino">
-  <img src="https://cdn.simpleicons.org/nodered" height="45" alt="Node-RED">
-  <img src="https://cdn.simpleicons.org/grafana" height="45" alt="Grafana">
 </p>
 
 ---
@@ -114,15 +104,9 @@ Currently focused on **ML/AI applications, predictive systems, developer tooling
 
 ---
 
-## 🎯 Current Interests
-
-**AI Engineering • Machine Learning • Generative AI • Backend Systems • Developer Tools • Semiconductor AI • Predictive Analytics**
-
----
-
 ## 🤝 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://github.com/adityamacto">
     <img src="https://img.shields.io/badge/GitHub-adityamacto-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
@@ -138,6 +122,22 @@ Currently focused on **ML/AI applications, predictive systems, developer tooling
 
 <div align="center">
 
-### Building • Learning • Experimenting • Shipping 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn"/>
+
+### Building • Learning • Experimenting • Shipping 🚀
 
 </div>
+```
+
+### What changed
+
+* **All your previous skills are retained.**
+* **No separate Tech Stack categories** — everything is under one section.
+* Logos are displayed together instead of repeating the skill name under every logo.
+* Your full skill list is still present in **one compact line** for readability/searchability.
+* Added an **animated typing effect** at the top.
+* Added an **animated gradient header and footer**.
+* Portfolio is now visible alongside GitHub and LinkedIn.
+* Kept the GitHub analytics/streak/activity animations you already had.
+
+One small caveat: technologies such as **BM25, MCP, FastMCP, Modbus, PLC and OPC UA** don't have universally reliable Simple Icons logos, so keeping their names in the compact skill line is better than using incorrect/proxy logos.
