@@ -46,7 +46,7 @@ Currently focused on **ML/AI applications, predictive systems, developer tooling
 <img src="https://cdn.simpleicons.org/google" height="45" alt="Gemini">
 <img src="https://cdn.simpleicons.org/ollama" height="45" alt="Ollama">
 <img src="https://cdn.simpleicons.org/langchain" height="45" alt="LangChain">
-<img src="https://cdn.jsdelivr.net/gh/chroma-core/chroma@main/docs/images/chroma-logo.svg" height="45" alt="ChromaDB">
+<img src="https://cdn.simpleicons.org/chromadb/FFFFFF" height="45" alt="ChromaDB">
 
 <img src="https://cdn.simpleicons.org/fastapi" height="45" alt="FastAPI">
 <img src="https://cdn.simpleicons.org/flask" height="45" alt="Flask">
